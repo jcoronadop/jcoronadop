@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson S. Coronado</h1>
 <h3 align="center">Fullstack developer from Colombia</h3>
-<br>
-<h3 align="left">Connect with me:</h3>
 
 Hello! My name is Jefferson Coronado and I am a passionate Fullstack developer, I enjoy exploring and learning new languages and technologies. 
 
@@ -10,6 +8,8 @@ My main focus is to create innovative, efficient, safe and secure solutions that
 I love working and collaborating with other developers and really enjoy the learning that can come from executing projects. 
 If you are interested in collaborating on an interesting project or would like to discuss a specific topic please contact me through my social networks.
 
+<br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jefferson-stiven-coronado-pinzon-451b5a225?_l=es_ES" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jefferson-stiven-coronado-pinzon-451b5a225" height="30" width="40" /></a>
 </p>
